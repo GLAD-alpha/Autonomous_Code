@@ -1,5 +1,9 @@
 <launch>
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> Set Copyright
   <include file="$(find novatel_oem7_driver)/launch/oem7_net.launch">
     <arg name="oem7_ip_addr" value="192.168.74.25" />
   </include>
